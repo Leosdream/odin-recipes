@@ -1,4 +1,4 @@
 # odin-recipes
 
-In this project i want to use all my HTML skills that i have learned so far and try to make personal website for myself.
-I want to include an Home page, about me page, a photo library page, an contact page with social media links and a cv link
+In this project I want to use all my HTML skills that I have learned so far during the Odin Project and try to make a personal website for myself.
+The website will include an Home page, About me page, A photo library page, An contact page with social media links and a link to my CV.
